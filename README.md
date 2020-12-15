@@ -25,7 +25,7 @@ It uses Pandas to sort through and filter from open-source data provided on denv
 
 An interactive web app to view COVID-19 data analysized from collected by the WHO and John Hopkins University. 
 
-[**Survivors of Human Trafficking Survivors**]https://github.com/caly-pso/EDA_trafficking_survivors) <!--![Stars](https://img.shields.io/github/stars/caly-pso/EDA_trafficking_survivors?style=flat-square)-->
+[**Survivors of Human Trafficking Survivors**](https://github.com/caly-pso/EDA_trafficking_survivors) <!--![Stars](https://img.shields.io/github/stars/caly-pso/EDA_trafficking_survivors?style=flat-square)-->
 
 An analysis of human trafficking survivors and their demographics using Pandas, Plotly, and Jupyter Notebookes. 
 
@@ -36,5 +36,7 @@ Exploring the beautiful trails of Colorado, and camping when the weather is righ
 <!--### Stats-->
 
 <!--[![Caly-pso's github stats](https://github-readme-stats.vercel.app/api?username=caly-pso)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<br>
 
 Banner photo by **Pete Linforth** from **Pixabay**

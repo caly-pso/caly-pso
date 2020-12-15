@@ -33,7 +33,7 @@ An analysis of human trafficking survivors and their demographics using Pandas, 
 
 Exploring the beautiful trails of Colorado, and camping when the weather is right.
 
-### Stats
+<!--### Stats-->
 
 <!--[![Caly-pso's github stats](https://github-readme-stats.vercel.app/api?username=caly-pso)](https://github.com/anuraghazra/github-readme-stats)-->
 

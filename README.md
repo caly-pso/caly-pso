@@ -1,10 +1,10 @@
-![banner](https://github.com/navendu-pottekkat/navendu-pottekkat/blob/master/banner.jpg)
+![banner](#)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-navendup-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/navendup/)
-[![Twitter](https://img.shields.io/twitter/follow/sudo_navendu?style=flat-square&logo=twitter)](https://twitter.com/sudo_navendu)
-[![GitHub](https://img.shields.io/badge/GitHub-navendu--pottekkat-lightgrey?style=flat-square&logo=github)](https://www.github.com/navendu-pottekkat/)
-[![Website](https://img.shields.io/badge/Website-navendu.me-red?style=flat-square)](https://navendu.me)
-[![Medium](https://img.shields.io/badge/Medium-navendupottekkat-green?style=flat-square&logo=medium)](https://medium.com/@navendupottekkat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-calypsorynkowski-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/calypsorynkowski/)
+[![GitHub](https://img.shields.io/badge/GitHub-caly-pso-lightgrey?style=flat-square&logo=github)](https://github.com/caly-pso)
+[![Website](https://img.shields.io/badge/Website-caly-pso.github.io/-red?style=flat-square)](https://caly-pso.github.io/)
+<!-- [![Twitter](https://img.shields.io/twitter/follow/caly-pso?style=flat-square&logo=twitter)](https://twitter.com/caly-pso)
+[![Medium](https://img.shields.io/badge/Medium-caly-pso-green?style=flat-square&logo=medium)](https://medium.com/@caly-pso) -->
 </br>
 
 ### Hi there, I'm Calypso 👋 
@@ -21,11 +21,11 @@ It uses Pandas to sort through and filter from open-source data provided on denv
 
 ### Projects I love... 🥰
 
-[**COVID-19 Analysis**](https://github.com/caly-pso/covid_app) ![Stars](https://img.shields.io/github/stars/caly-pso/covid-app?style=flat-square)
+[**COVID-19 Analysis**](https://github.com/caly-pso/covid_app) <!--![Stars](https://img.shields.io/github/stars/caly-pso/covid-app?style=flat-square)-->
 
 An interactive web app to view COVID-19 data analysized from collected by the WHO and John Hopkins University. 
 
-[**Survivors of Human Trafficking Survivors**]https://github.com/caly-pso/EDA_trafficking_survivors) ![Stars](https://img.shields.io/github/stars/caly-pso/EDA_trafficking_survivors?style=flat-square)
+[**Survivors of Human Trafficking Survivors**]https://github.com/caly-pso/EDA_trafficking_survivors) <!--![Stars](https://img.shields.io/github/stars/caly-pso/EDA_trafficking_survivors?style=flat-square)-->
 
 An analysis of human trafficking survivors and their demographics using Pandas, Plotly, and Jupyter Notebookes. 
 

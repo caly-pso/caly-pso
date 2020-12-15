@@ -1,8 +1,8 @@
-![banner](https://github.com/caly-pso/caly-pso/blob/main/header_background.png)
+![banner](https://github.com/caly-pso/caly-pso/blob/main/banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-calypsorynkowski-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/calypsorynkowski/)
 [![GitHub](https://img.shields.io/badge/GitHub-caly--pso-lightgrey?style=flat-square&logo=github)](https://github.com/caly-pso)
-[![Website](https://img.shields.io/badge/Website-caly--pso.github.io-brightgreen)](https://caly-pso.github.io/)
+[![Website](https://img.shields.io/badge/Website-caly--pso.github.io-brightgreen?style=flat-square)](https://caly-pso.github.io/)
 <!-- [![Twitter](https://img.shields.io/twitter/follow/caly-pso?style=flat-square&logo=twitter)](https://twitter.com/caly-pso)
 [![Medium](https://img.shields.io/badge/Medium-caly-pso-green?style=flat-square&logo=medium)](https://medium.com/@caly-pso) -->
 </br>
@@ -29,12 +29,12 @@ An interactive web app to view COVID-19 data analysized from collected by the WH
 
 An analysis of human trafficking survivors and their demographics using Pandas, Plotly, and Jupyter Notebookes. 
 
-### What I am upto when I am not busy trying to escape the Matrix... 🕺
+### What I am up to when I am not looking for a new dataset... 🕺
 
 Exploring the beautiful trails of Colorado, and camping when the weather is right.
 
 ### Stats
 
-[![Caly-pso's github stats](https://github-readme-stats.vercel.app/api?username=caly-pso)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Caly-pso's github stats](https://github-readme-stats.vercel.app/api?username=caly-pso)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<!-- Cover photo by **Markus Spiske** from **Pexels** -->
+Banner photo by **Pete Linforth** from **Pixabay**

@@ -7,19 +7,19 @@
 [![Medium](https://img.shields.io/badge/Medium-caly-pso-green?style=flat-square&logo=medium)](https://medium.com/@caly-pso) -->
 </br>
 
-### Hi there, I'm Calypso 👋 
+### Hi there, I'm Calypso 🙌 
 
 I am a **Data Analyst** working to tell stories with data. I work mostly with Python, Pandas, Plotly, and Seaborn. 
 
 You will find projects related to data analysis and vizualization in my repos. Look below to find projects that I am really proud of!
 
-### I'm currently working on... 🔨 
+### I'm currently working on... 📊 
 
 [**Denver Crime Analysis**](#)- A Streamlit App that will allow you to view crime stats by location, time, year, offense.
 
 It uses Pandas to sort through and filter from open-source data provided on denver.gov.
 
-### Projects I love... 🥰
+### Projects I love... 🌟
 
 [**COVID-19 Analysis**](https://github.com/caly-pso/covid_app) <!--![Stars](https://img.shields.io/github/stars/caly-pso/covid-app?style=flat-square)-->
 
@@ -29,7 +29,7 @@ An interactive web app to view COVID-19 data analysized from collected by the WH
 
 An analysis of human trafficking survivors and their demographics using Pandas, Plotly, and Jupyter Notebookes. 
 
-### What I am up to when I am not looking for a new dataset... 🕺
+### What I am up to when I am not looking for a new dataset... 🌄 
 
 Exploring the beautiful trails of Colorado, and camping when the weather is right.
 

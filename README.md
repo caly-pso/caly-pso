@@ -35,7 +35,7 @@ Exploring the beautiful trails of Colorado, and camping when the weather is righ
 
 <!--### Stats-->
 
-<!--[![Caly-pso's github stats](https://github-readme-stats.vercel.app/api?username=caly-pso)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Caly-pso's github stats](https://github-readme-stats.vercel.app/api?username=caly-pso)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 

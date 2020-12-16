@@ -1,4 +1,4 @@
-![banner](https://github.com/caly-pso/caly-pso/blob/main/banner.png)
+![banner](https://github.com/caly-pso/caly-pso/blob/main/header.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-calypsorynkowski-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/calypsorynkowski/)
 [![GitHub](https://img.shields.io/badge/GitHub-caly--pso-lightgrey?style=flat-square&logo=github)](https://github.com/caly-pso)
@@ -36,7 +36,3 @@ Exploring the beautiful trails of Colorado, and camping when the weather is righ
 <!--### Stats-->
 
 [![Caly-pso's github stats](https://github-readme-stats.vercel.app/api?username=caly-pso)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-Banner photo by **Pete Linforth** from **Pixabay**

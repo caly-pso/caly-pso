@@ -9,15 +9,15 @@
 
 ### Hi there, I'm Calypso 🙌 
 
-I am a **Analyst, Programmer, and Data Enthusiast** who loves working with data and programs to tell stories. My tools of choice are Python, Pandas, SQL, VS Code, and Jupyter Notebooks.
+I am a **Analyst, Programmer, and Data Enthusiast** who loves working with data and programs to tell stories. My tools of choice are Python, Pandas, SQL, and oXygen XML.
 
-You will find projects related to data analysis and Python in my repos. Look below to find projects that I am really proud of!
-<!--
-### I'm currently working on... 📊 -->
-<!--
-[**Denver Crime Analysis**](#)- A Streamlit App that will allow you to view crime stats by location, time, year, offense.-->
-<!--
-It uses Pandas to sort through and filter from open-source data provided on denver.gov. -->
+You will find projects related to data analysis, Python, and technical writing in my repos. Look below to find projects that I am really proud of!
+
+### I'm currently working on... 📊
+
+[**Guide to Creating a Portolio With Bootstrap**](#)- A documentation guide writen using DITA for creating your own portfolio website using Boostrap
+
+Working through the guide you will learn how Bootstrap, HTML/CSS, JavaScript, and the Isotope plugin can create a simple, responsive and elegant portfolio website.
 
 ### Projects I love... 🌟
 
@@ -27,7 +27,7 @@ An interactive web application to view COVID-19 data collected by the WHO and Jo
 
 [**Survivors of Human Trafficking Survivors**](https://github.com/caly-pso/EDA_trafficking_survivors) <!--![Stars](https://img.shields.io/github/stars/caly-pso/EDA_trafficking_survivors?style=flat-square)-->
 
-An analysis of human trafficking survivors and their demographics using Pandas, Plotly, and Jupyter Notebookes. 
+An analysis of human trafficking survivors and their demographics using Pandas, Plotly, and Jupyter Notebooks. 
 
 ### What I am up to when I am not looking for a new dataset or learning more about Python... 🌄 
 

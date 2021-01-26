@@ -15,7 +15,7 @@ You will find projects related to data analysis, Python, and technical writing i
 
 ### I'm currently working on... 📊
 
-[**Guide to Creating a Portolio With Bootstrap**](#)- A documentation guide writen using DITA for creating your own portfolio website using Boostrap
+[**Guide to Creating a Portolio With Bootstrap**](https://github.com/caly-pso/websiteCreation_inDITA)- A documentation guide writen using DITA for creating your own portfolio website using Boostrap
 
 Working through the guide you will learn how Bootstrap, HTML/CSS, JavaScript, and the Isotope plugin can create a simple, responsive and elegant portfolio website.
 

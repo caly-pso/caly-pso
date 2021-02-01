@@ -25,7 +25,7 @@ Working through the guide you will learn how Bootstrap, HTML/CSS, JavaScript, an
 
 An interactive web application to view COVID-19 data collected by the WHO and John Hopkins University using Python and Streamlit. 
 
-[**Survivors of Human Trafficking Survivors**](https://github.com/caly-pso/EDA_trafficking_survivors) <!--![Stars](https://img.shields.io/github/stars/caly-pso/EDA_trafficking_survivors?style=flat-square)-->
+[**Survivors of Human Trafficking**](https://github.com/caly-pso/EDA_trafficking_survivors) <!--![Stars](https://img.shields.io/github/stars/caly-pso/EDA_trafficking_survivors?style=flat-square)-->
 
 An analysis of human trafficking survivors and their demographics using Pandas, Plotly, and Jupyter Notebooks. 
 

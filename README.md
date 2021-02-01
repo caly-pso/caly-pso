@@ -21,7 +21,7 @@ Working through the guide you will learn how Bootstrap, HTML/CSS, JavaScript, an
 
 ### Projects I love... 🌟
 
-[**COVID-19 Application**](https://github.com/caly-pso/covid_app) <!--![Stars](https://img.shields.io/github/stars/caly-pso/covid-app?style=flat-square)-->
+[**Disease Dashboard Application**](https://github.com/caly-pso/disease_dashboard_app) <!--![Stars](https://img.shields.io/github/stars/caly-pso/covid-app?style=flat-square)-->
 
 An interactive web application to view COVID-19 data collected by the WHO and John Hopkins University using Python and Streamlit. 
 
